@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "766859fe5f742dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "110460d7ae75ef89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca6d0f86090086c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Augmentation through Pattern Matching in Computing Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8deb0c94e2790bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f42efb2abbb62757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbb46a037a94baef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e5dfb267a56fdff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8242582267391e4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3491b5de8d6c011f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe933ffc211e41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fae51b8a7767df79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cognitive Augmentation through Pattern Matching in Computing Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39c816c6618da761",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cognitive Augmentation through Pattern Matching in Computing Systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "041d2ae7abcf15f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7315f78550dccad9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cognitive Augmentation through Pattern Matching in Computing Systems.md"
+              }
+            }
+          },
+          {
+            "id": "b3f4591e81a63674",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eca6d0f86090086c",
+  "lastOpenFiles": [
+    "Pattern Recognition Training.md",
+    "Danger Recognition.md",
+    "Cognitive Augmentation through Pattern Matching in Computing Systems.md",
+    "Language recognition.md",
+    "Information Visualization.md",
+    "Habit Formation.md",
+    "Emotion Recognition.md",
+    "temp"
+  ]
+}
